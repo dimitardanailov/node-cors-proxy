@@ -10,5 +10,8 @@
   "license": "ISC",
   "dependencies": {
     "http-proxy": "^1.15.1"
-  }
+  },
+	"engines": {
+		"node": "4.2"
+	}
 }

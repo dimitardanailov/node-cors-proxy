@@ -1,2 +1,7 @@
-# node-cors-proxy
-Simple proxy server with cors enable
+Access:
+
+```
+node index.js
+http://<your ip>:8015
+```
+
